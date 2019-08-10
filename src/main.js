@@ -8,7 +8,8 @@ import 'mint-ui/lib/style.css'
 import $ from 'jquery'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.min.js'
-import './lib/mui/css/mui.min.css'    
+import './lib/mui/css/mui.min.css'
+import './lib/mui/css/icons-extra.css' 
 Vue.use(MintUI)
 Vue.config.productionTip = false
 /* eslint-disable no-new */
